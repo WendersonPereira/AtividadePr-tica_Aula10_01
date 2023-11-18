@@ -4,7 +4,7 @@
 
 <head>
 
-<title>Aula Prática 10</title>
+<title>Fanpage de Gatinhos</title>
 
 <meta charset=“utf-8”>
 
@@ -12,7 +12,9 @@
 
 <body>
 
-<h1>Fazendo um versionamento para Aula Prática 10</h1>
+<h1>Perfil #catsoninstagram</h1>
+
+<img src=“images/isolado-feliz-sorridente-cao-fundo-branco-retrato-4.jpg” />
 
 </body>
 
