@@ -4,7 +4,7 @@
 
 <head>
 
-<title>Título da página</title>
+<title>Aula Prática 10</title>
 
 <meta charset=“utf-8”>
 
@@ -12,7 +12,7 @@
 
 <body>
 
-<h1>Aqui vai um título</h1>
+<h1>Fazendo um versionamento para Aula Prática 10</h1>
 
 </body>
 
