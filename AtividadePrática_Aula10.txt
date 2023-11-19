@@ -14,7 +14,7 @@
 
 <h1>Perfil #catsoninstagram</h1>
 
-<img src=“images/isolado-feliz-sorridente-cao-fundo-branco-retrato-4.jpg” />
+<img src="images/isolado-feliz-sorridente-cao-fundo-branco-retrato-4.jpg" alt="Imagem de um cachorro feliz e sorridente" />
 
 </body>
 
